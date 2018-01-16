@@ -1,4 +1,4 @@
 var playlist = {michaelJackson: "thriller"}
 function updatePlaylist(playlist, artistName, songTitle) {
-  return 
+  return Phil Ochs, "Here'stothestate"
 }
